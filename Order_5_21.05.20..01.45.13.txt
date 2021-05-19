@@ -1,0 +1,9 @@
+Order: 5
+ Client_id: 1
+ Date: 20-05-2021 01:45:13
+ User_name: messiclaudiu
+   Products
+    Sweet and Sour Pickles  price:12.0
+    Chicken Fricassée with Creamy Sweet-and-Sour Dill Sauce  price:20.0
+    Red Lion  price:40.0
+    Total price: 72.0

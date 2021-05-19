@@ -1,0 +1,6 @@
+Order: 2
+ Client_id: 1
+ Date: 16-05-2021 23:33:19
+ User_name: messiclaudiu
+   Products
+    Total price: 0.0

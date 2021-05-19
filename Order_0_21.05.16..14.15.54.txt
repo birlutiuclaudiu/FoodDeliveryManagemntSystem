@@ -1,0 +1,8 @@
+Order: 0
+ Client_id: 1
+ Date: 16-05-2021 14:15:53
+ User_name: messiclaudiu
+   Products
+    Scallop and Shrimp Creole  price:23.0
+    Grog  price:28.0
+    Total price: 51.0

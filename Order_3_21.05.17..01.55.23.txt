@@ -1,0 +1,13 @@
+Order: 3
+ Client_id: 1
+ Date: 17-05-2021 01:55:23
+ User_name: messiclaudiu
+   Products
+    Basmati Rice with Summer Vegetable Salad  price:34.0
+    Broiled Shrimp Appetizer  price:58.0
+    menu2{
+   Butter-Sugar Crepes  price:25.0
+   Poached Sockeye Salmon with Mustard Herb Sauce  price:99.0
+   Aunt Tom's Italian Cream Cake  price:65.0
+   } PRICE: 189.0
+    Total price: 281.0

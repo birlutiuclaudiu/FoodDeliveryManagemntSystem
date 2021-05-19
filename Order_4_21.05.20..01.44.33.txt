@@ -1,0 +1,12 @@
+Order: 4
+ Client_id: 1
+ Date: 20-05-2021 01:44:33
+ User_name: messiclaudiu
+   Products
+    Pear and Dried Cherry Frangipane Cake  price:96.0
+    menu2{
+   Butter-Sugar Crepes  price:25.0
+   Poached Sockeye Salmon with Mustard Herb Sauce  price:99.0
+   Aunt Tom's Italian Cream Cake  price:65.0
+   } PRICE: 189.0
+    Total price: 285.0
