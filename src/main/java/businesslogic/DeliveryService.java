@@ -37,7 +37,7 @@ public class DeliveryService extends Observable implements IDeliveryServiceProce
 
     /**
      * Constructor
-     * Creeaza obiectele necesare sau le importeaza
+     * Creeaza obiectele necesare sau le importa
      */
     public DeliveryService(){
         Serializator< Map<Order, Collection<MenuItem>>>  serializatorOrder=new Serializator<>();

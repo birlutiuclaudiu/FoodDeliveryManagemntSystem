@@ -19,7 +19,6 @@ public class StartApp {
 
         DeliveryService deliveryService=new DeliveryService();
         deliveryService.addObserver(employeeView);
-
         ControllerLogin controllerLogin=new ControllerLogin(logView,clientView,
                                         administratorView,employeeView, deliveryService);
         logView.setVisible(true);

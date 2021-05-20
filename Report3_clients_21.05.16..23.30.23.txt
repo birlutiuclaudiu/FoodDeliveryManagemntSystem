@@ -1,1 +1,0 @@
-   The clients that have ordered more than 1 times and the value of the order was higher than 3
